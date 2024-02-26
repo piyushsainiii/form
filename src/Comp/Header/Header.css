@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: palevioletred;
+    padding: 20px;
+}
+
+.header ol {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.header li{
+    color: white;
+    margin-left: 40px;
+}
+
+.headerlogo{
+    width: 50px;
+    height: auto;
+    position: absolute;
+    left: 0%;
+    margin: 20px;
+
+}
